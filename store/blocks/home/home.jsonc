@@ -22,12 +22,12 @@
       "preload": true,
       "images": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/Class&Style-desktop.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/Class&Style-mobile.png"
+          "image": "https://atmosphere.vtexassets.com/assets/vtex.file-manager-graphql/images/25a84555-dd93-4276-af2c-018bd772b7e0___fdac8ad78c786d7a58e1a31c013b2a80.png",
+          "mobileImage": "https://atmosphere.vtexassets.com/assets/vtex.file-manager-graphql/images/409b0e58-8d71-4c11-93a5-9b00f1f146d8___41198888055dd465b738f195dbcf0cfe.png"
         },
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-decoration.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-decoration-mobile.png"
+          "image": "https://atmosphere.vtexassets.com/assets/vtex.file-manager-graphql/images/029b34e3-46fa-47aa-a6d8-4a3c03faf1aa___5d226fc2c1c41087491cfd0325b21a1c.jpg",
+          "mobileImage": "https://atmosphere.vtexassets.com/assets/vtex.file-manager-graphql/images/ba96d102-f288-4848-ac1b-e471544247d3___b375d84d7f6625cb3b4e9a74e168c5a2.jpg"
         }
       ]
     }
@@ -47,7 +47,7 @@
 
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Summer",
+      "text": "## Games",
       "blockClass": "shelfTitle"
     }
   },
